@@ -31,12 +31,12 @@ The AMBA AHB2APB Bridge acts as an interface between the high-performance AHB bu
 
 ### Conceptual Architecture
 
-![AHB2APB Architecture](images/architecture.png)
+![AHB2APB Architecture](./images/architecture.png)
 
 
 ### RTL Block Diagram (Vivado Elaborated Design)
 
-![Vivado RTL Schematic](images/vivado_rtl_architecture.png)
+![Vivado RTL Schematic](./images/vivado_rtl_architecture.png)
 
 ## FSM Operation
 
@@ -73,7 +73,7 @@ IDLE → SETUP → ACCESS → IDLE
 
 The design was verified using Vivado simulation. The waveform confirms correct conversion of AHB transactions into APB transactions.
 
-![Simulation Waveform](images/rtl_waveform.jpeg)
+![Simulation Waveform](./images/rtl_waveform.jpeg)
 
 ## Synthesis Results
 
