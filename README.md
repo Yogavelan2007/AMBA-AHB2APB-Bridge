@@ -1,5 +1,9 @@
 # AMBA AHB2APB Bridge Design using Verilog HDL
 
+![Verilog](https://img.shields.io/badge/HDL-Verilog-blue)
+![Vivado](https://img.shields.io/badge/Tool-Xilinx%20Vivado-red)
+![AMBA](https://img.shields.io/badge/Protocol-AHB2APB-green)
+
 ## Project Overview
 
 This project focuses on the design and verification of an **AMBA AHB to APB Bridge** using **Verilog HDL**.
